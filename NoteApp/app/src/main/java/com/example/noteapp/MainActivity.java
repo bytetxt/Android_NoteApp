@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
+import com.example.noteapp.activities.CreateNoteActivity;
+
 public class MainActivity extends AppCompatActivity {
 
     public static final int REQUEST_CODE_ADD_NOTE = 1;
